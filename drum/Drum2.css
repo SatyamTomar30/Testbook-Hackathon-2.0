@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: #283149;
+}
+h1{
+    font-size: 5rem;
+    color: #DBEDF3;
+    text-shadow: 3px 0 #DA0463;
+}
+.drum{
+    outline: none;
+    border: 10px solid #404869;
+    font-size: 5rem;
+    line-height: 2;
+    font-weight: 900;
+    color: #DA0463;
+    text-shadow: 3px 0 #DA0463;
+    border-radius: 15px;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    margin: 10px;
+    background-color: white;
+}
+
+.w{
+background-image:url("images/drum1.png");
+}
+.a{
+background-image:url("images/drum2.png");
+}
+.s{
+background-image:url("images/drum3.png");
+}
+.d{
+background-image:url("images/drum4.png");
+}
+.j{
+background-image:url("images/drum5.png");
+}
+.k{
+  background-image:url("images/drum6.png");  
+}
+.l{
+    background-image: url("images/drum7.png");
+}
